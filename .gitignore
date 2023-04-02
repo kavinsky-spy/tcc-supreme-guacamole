@@ -1,4 +1,11 @@
-.idea
-vendor
+
+
+
+
+
+/vendor/
+/.idea/
+/web/**/.git
+/drush/**/.git
 
 
